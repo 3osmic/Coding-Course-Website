@@ -75,3 +75,12 @@ li {
     margin-right: auto;
     width: 25%;
 }
+
+/* Basic Syntax */
+.cmdline {
+    margin: 20px;
+}
+
+.cmdline img {
+    width: 50%;
+}
